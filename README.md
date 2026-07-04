@@ -1,6 +1,6 @@
 <!-- ==================== ЦВЕТЫ ВВЕРХУ ==================== -->
 <div align="center">
-  <img src="assets/flower_right.wepb" width="210">
+  <img src="assets/flower_right.webp" width="210">
 </div>
 
 <br>
