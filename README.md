@@ -7,7 +7,7 @@
 
 <!-- ==================== ПРИВЕТСТВИЕ ==================== -->
 <div align="center">
-  <h2>Здравствуйте =3</h2>
+  <h2>дравствуйте =3</h2>
   <p><strong>Я Геральд</strong>, чето пытаюсь</p>
 </div>
 
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/↓_СКАЧАТЬ_РЕЗЮМЕ-FF66AA?style=for-the-badge" alt="Скачать резюме">
   </a>
   
-  <a href="https://t.me/твоя_ссылка_сюда">
+  <a href="https://t.me/herarb">
     <img src="https://img.shields.io/badge/→_ЛАЙФСТАЙЛ_В_TELEGRAM-2F2F2F?style=for-the-badge" alt="Telegram">
   </a>
 </div>
