@@ -1,6 +1,5 @@
 <!-- ==================== ЦВЕТЫ ВВЕРХУ ==================== -->
 <div align="center">
-  <img src="assets/flower-left.png" width="210">
   <img src="assets/flower-right.png" width="210">
 </div>
 
@@ -9,7 +8,7 @@
 <!-- ==================== ПРИВЕТСТВИЕ ==================== -->
 <div align="center">
   <h2>Здравствуйте =3</h2>
-  <p><strong>Я Геральд</strong>, пылкое нечто</p>
+  <p><strong>Я Геральд</strong>, чето пытаюсь</p>
 </div>
 
 <br>
