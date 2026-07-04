@@ -30,7 +30,7 @@
   <h3>Мои материалы</h3>
   
   <a href="assets/resume.pdf" download>
-    <img src="https://img.shields.io/badge/↓_СКАЧАТЬ_РЕЗЮМЕ-FF66AA?style=for-the-badge" alt="Скачать резюме">
+    <img src="https://img.shields.io/badge/↓_СКАЧАТЬ_РЕЗЮМЕ-9B59B6?style=for-the-badge" alt="Скачать резюме">
   </a>
   
   <a href="https://t.me/herarb">
