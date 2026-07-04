@@ -1,10 +1,10 @@
-<!-- ==================== ДЕКОРАТИВНЫЕ ЦВЕТЫ ==================== -->
+<!-- ==================== ЦВЕТЫ ВВЕРХУ ==================== -->
 <div align="center">
-  <img src="assets/flower_left.png" width="220" style="float: left; margin-left: -30px;">
-  <img src="assets/flower_right.webp" width="220" style="float: right; margin-right: -30px;">
+  <img src="assets/flower-left.png" width="210">
+  <img src="assets/flower-right.png" width="210">
 </div>
 
-<br><br>
+<br>
 
 <!-- ==================== ПРИВЕТСТВИЕ ==================== -->
 <div align="center">
@@ -16,16 +16,12 @@
 
 <!-- ==================== ИНФО-БЛОК ==================== -->
 <div align="center">
-  <table style="max-width: 620px; background-color: #161b22; border-radius: 12px; padding: 20px 30px;">
-    <tr>
-      <td align="center">
-        
-🟪 **Бакалавр @ Московский политех** • Аналитик • ML-инженер<br><br>
+  <div style="max-width: 620px; background-color: #161b22; border-radius: 14px; padding: 24px 32px; text-align: center;">
+    
+🟪 <strong>Бакалавр @ Московский политех</strong> • Аналитик • ML-инженер<br><br>
 🎵 музыка • тэм • сэм • фоточки • картинки
 
-      </td>
-    </tr>
-  </table>
+  </div>
 </div>
 
 <br>
@@ -38,9 +34,7 @@
     <img src="https://img.shields.io/badge/↓_СКАЧАТЬ_РЕЗЮМЕ-FF66AA?style=for-the-badge" alt="Скачать резюме">
   </a>
   
-  <a href="https://t.me/твоя_ссылка">
+  <a href="https://t.me/твоя_ссылка_сюда">
     <img src="https://img.shields.io/badge/→_ЛАЙФСТАЙЛ_В_TELEGRAM-2F2F2F?style=for-the-badge" alt="Telegram">
   </a>
 </div>
-
-<br><br>
