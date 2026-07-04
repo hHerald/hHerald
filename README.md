@@ -1,43 +1,51 @@
-<!-- ==================== ФОНОВЫЙ БАННЕР С РАЗМЫТИЕМ ==================== -->
-
+<!-- ==================== ДЕКОРАТИВНЫЕ ЦВЕТЫ ==================== -->
 <div align="center">
-  <img src="assets/background.png" width="100%" style="max-width: 920px; border-radius: 16px; filter: blur(3px); opacity: 0.35;">
+  <img src="assets/flower-left.png" width="220" style="float: left; margin-left: -30px;">
+  <img src="assets/flower-right.png" width="220" style="float: right; margin-right: -30px;">
 </div>
-
-<!-- ==================== ПРИВЕТСТВИЕ ==================== -->
-<br>
-
-<div align="center">
-  <h1>драствуйте =3</h1>
-  <p>Я <strong>Геральд</strong>, пытюсь чето</p>
-</div>
-
-<br>
-
-<!-- ==================== ОСНОВНОЙ БЛОК ==================== -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-
-🟫 **Бакалавр @ Московский политех** • Аналитик • ML-инженер<br>
-    музыка • там • сям • фоточки • картиночки<br><br>
 
 <br><br>
 
+<!-- ==================== ПРИВЕТСТВИЕ ==================== -->
+<div align="center">
+  <h2>Здравствуйте =3</h2>
+  <p><strong>Я Геральд</strong>, пылкое нечто</p>
+</div>
 
-<!-- ==================== НОВЫЙ БЛОК: МОИ МАТЕРИАЛЫ ==================== -->
 <br>
 
+<!-- ==================== ИНФО-БЛОК ==================== -->
 <div align="center">
+  <table style="max-width: 620px; background-color: #161b22; border-radius: 12px; padding: 20px 30px;">
+    <tr>
+      <td align="center">
+        
+🟪 **Бакалавр @ Московский политех** • Аналитик • ML-инженер<br><br>
+🎵 музыка • тэм • сэм • фоточки • картинки
 
-### 📎 Мои материалы
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="assets/resume.pdf" download>
-  <img src="https://img.shields.io/badge/📄_Скачать_резюме-FF66AA?style=for-the-badge" alt="Скачать резюме">
-</a>
+<br>
 
-<a href="https://t.me/herarb">
-  <img src="https://img.shields.io/badge/📱_Лайфстайл_в_Telegram-2F2F2F?style=for-the-badge" alt="Telegram">
-</a>
+<!-- ==================== МОИ МАТЕРИАЛЫ ==================== -->
+<div align="center">
+  <h3>Мои материалы</h3>
+  
+  <a href="assets/resume.pdf" download>
+    <img src="https://img.shields.io/badge/↓_СКАЧАТЬ_РЕЗЮМЕ-FF66AA?style=for-the-badge" alt="Скачать резюме">
+  </a>
+  
+  <a href="https://t.me/твоя_ссылка">
+    <img src="https://img.shields.io/badge/→_ЛАЙФСТАЙЛ_В_TELEGRAM-2F2F2F?style=for-the-badge" alt="Telegram">
+  </a>
+</div>
 
+<br><br>
+
+<!-- ==================== ФОНОВОЕ РАЗМЫТОЕ ИЗОБРАЖЕНИЕ (опционально) ==================== -->
+<div align="center">
+  <img src="assets/background.png" width="100%" style="max-width: 900px; border-radius: 16px; filter: blur(4px); opacity: 0.18;">
 </div>
