@@ -18,7 +18,7 @@
   <div style="max-width: 620px; background-color: #161b22; border-radius: 14px; padding: 24px 32px; text-align: center;">
     
 🟪 <strong>Бакалавр @ Московский политех</strong> • Аналитик • ML-инженер<br><br>
-🎵 музыка • тэм • сэм • фоточки • картинки
+🎵 музыка • там • сям • фоточки • картинки
 
   </div>
 </div>
