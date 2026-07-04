@@ -1,7 +1,7 @@
 <!-- ==================== ДЕКОРАТИВНЫЕ ЦВЕТЫ ==================== -->
 <div align="center">
   <img src="assets/flower-left.png" width="220" style="float: left; margin-left: -30px;">
-  <img src="assets/flower-right.png" width="220" style="float: right; margin-right: -30px;">
+  <img src="assets/flower-right.webp" width="220" style="float: right; margin-right: -30px;">
 </div>
 
 <br><br>
@@ -44,8 +44,3 @@
 </div>
 
 <br><br>
-
-<!-- ==================== ФОНОВОЕ РАЗМЫТОЕ ИЗОБРАЖЕНИЕ (опционально) ==================== -->
-<div align="center">
-  <img src="assets/background.png" width="100%" style="max-width: 900px; border-radius: 16px; filter: blur(4px); opacity: 0.18;">
-</div>
