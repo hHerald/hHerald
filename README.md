@@ -29,7 +29,7 @@
 <div align="center">
   <h3>Мои материалы</h3>
   
-  <a href="assets/resume.pdf" download>
+  <a href="https://raw.githubusercontent.com/hHerald/hHerald/main/assets/resume.pdf" download>
     <img src="https://img.shields.io/badge/резюме-9B59B6?style=for-the-badge" alt="резюме">
   </a>
   
