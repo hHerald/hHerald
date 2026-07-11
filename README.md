@@ -30,10 +30,10 @@
   <h3>Мои материалы</h3>
   
   <a href="assets/resume.pdf" download>
-    <img src="https://img.shields.io/badge/↓_СКАЧАТЬ_РЕЗЮМЕ-9B59B6?style=for-the-badge" alt="Скачать резюме">
+    <img src="https://img.shields.io/badge/резюме-9B59B6?style=for-the-badge" alt="резюме">
   </a>
   
   <a href="https://t.me/herarb">
-    <img src="https://img.shields.io/badge/→_ЛАЙФСТАЙЛ_В_TELEGRAM-2F2F2F?style=for-the-badge" alt="Telegram">
+    <img src="https://img.shields.io/badge/тгк-2F2F2F?style=for-the-badge" alt="Telegram">
   </a>
 </div>
